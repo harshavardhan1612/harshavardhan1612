@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Rajat Mujawar</h1>
+<h1 align="center">Hi 👋, I am harsha vardhan</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React+Developer;Quick+learner;MERN+Developer;&right=true&width=400&height=50">
 <h3 align="center">Enthusiastic Aspiring self-motivated Full Stack Web Developer specialized MERN- stack from Masai School. Worked through 1000+ hours of learning HTML, CSS, JavaScript, React, React-Redux, and Chakra-UI. Looking to start a career as a web developer with a reputed firm driven by technology.</h3>
@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning *HTML,CSS,React,Redux,Node.js,JavaScript*
 
-- 👨‍💻 All of my projects are available at(https://rajatmujawar123.github.io/)
+- 👨‍💻 All of my projects are available at(https://harshavardhan1612.github.io/)
 
 - 💬 Ask me about *React, JavaScript*
 
-- 📫 How to reach me *mujawarrajat009@gmail.com*
+- 📫 How to reach me *hv8106869838@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X7JP79bGjHTzElWu8BOTHT5wytL2cNhI/view?usp=sharing)
 
@@ -38,5 +38,5 @@
     <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajatMujawar123&show_icons=true&locale=en&theme=algolia&count_private=true" alt="hari" /></td>
   </tr>
 </table>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajatMujawar123&theme=2077" width="100%" />
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=RajatMujawar123&theme=react-dark&custom_title=RajatMujawar123%20's%20contribution%20Graph&hide_border=true" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshavardhan1612&theme=2077" width="100%" />
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=harshavardhan1612&theme=react-dark&custom_title=RajatMujawar123%20's%20contribution%20Graph&hide_border=true" />
