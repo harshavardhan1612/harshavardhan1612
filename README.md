@@ -9,9 +9,9 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatmujawar123&label=Profile%20views&color=0e75b6&style=flat" alt="rajatmujawar123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhan1612&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhan1612" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajatmujawar123" alt="rajatmujawar123" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshavardhan1612" alt="harshavardhan" /></a> </p>
 
 - 🌱 I’m currently learning *HTML,CSS,React,Redux,Node.js,JavaScript*
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harsha-vardhan-0910aa233/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="rajat-mujawar-70a02822b" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsha-vardhan-0910aa233/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Harsha vardhan" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,8 +34,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RajatMujawar123&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" /></td>
-    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajatMujawar123&show_icons=true&locale=en&theme=algolia&count_private=true" alt="hari" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshavardhan1612&theme=algolia&hide_border=false&include_all_commits=true&count_private=true" /></td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshavardhan1612&show_icons=true&locale=en&theme=algolia&count_private=true" alt="hari" /></td>
   </tr>
 </table>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshavardhan1612&theme=2077" width="100%" />
