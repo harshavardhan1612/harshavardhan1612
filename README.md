@@ -20,7 +20,7 @@
 
 - 📫 How to reach me *hv8106869838@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LljjDmD3PU5hF-aaNunxCCAz3Ihts7FA/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
